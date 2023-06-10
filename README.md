@@ -32,6 +32,6 @@ No backend, estou estudando Node.js, Express, MySQL, Docker, JWT e TypeScript, a
 <br>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=andreresende36&icon=0&color=9)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=andreresende36&icon=0&color=3)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
