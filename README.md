@@ -1,9 +1,12 @@
 # André Resende aqui 👋
-Sou um apaixonado por tecnologia, empreendedorismo e música. Minha trajetória profissional abrange diferentes áreas, incluindo o setor bancário, marketing digital e atualmente atuo como Desenvolvedor Web. Essa escolha trouxe propósito à minha vida e me permite oferecer meu melhor às pessoas. Sempre fui curioso e engajado em aprender sobre diversos temas, e vejo isso como algo essencial para um programador.
+Sou um apaixonado por tecnologia, empreendedorismo e música. Minha trajetória profissional passa por diferentes áreas, incluindo o setor bancário, marketing digital e atualmente atuo como Desenvolvedor Web. Essa escolha trouxe propósito à minha vida e me permite oferecer meu melhor às pessoas. Sempre fui curioso e engajado em aprender sobre diversos temas, e vejo isso como algo essencial para um programador.
 
-Atualmente, estou focado em aprimorar minhas habilidades no desenvolvimento frontend e backend. No frontend, estudo HTML, CSS, JavaScript, TypeScript, React, Redux e Bootstrap. Tenho uma preferência especial pelo frontend, pois adoro criar interfaces intuitivas e agradáveis aos usuários. Além disso, venho realizando projetos e compartilhando-os no GitHub para colocar em prática o que tenho aprendido.
+Desenvolvi habilidades para atuar tanto no frontend quanto no backend, assim posso programar e entender o processo por completo, de ponta a ponta.
+No frontend, domino HTML, CSS, JavaScript, TypeScript, React, Redux e Bootstrap. Tenho uma preferência pelo frontend, pois gosto de criar interfaces intuitivas e agradáveis para os usuários. 
+Já no backend, utilizo Node.js, Express, JWT e TypeScript para a construção de APIs robustas e seguras. Para criação e utilização do banco de dados eu utilizo MySQL, Docker e o ORM Sequelize.
 
-No backend, estou estudando Node.js, Express, MySQL, Docker, JWT e TypeScript, ampliando meu conhecimento sobre a construção de APIs robustas e seguras. Estou entusiasmado em mergulhar cada vez mais nessas tecnologias e aprimorar minhas habilidades tanto no frontend quanto no backend. Através do meu compromisso contínuo com o aprendizado, busco contribuir para o mundo da tecnologia e trazer soluções eficientes para os desafios que surgem.
+Venho desenvolvendo projetos e compartilhando-os aqui no GitHub para colocar em prática todas as stacks que mencionei acima.
+Me segue aí! Quem sabe podemos trabalhar juntos num projeto 📋
 <br>
 <br>
 
@@ -20,14 +23,7 @@ No backend, estou estudando Node.js, Express, MySQL, Docker, JWT e TypeScript, a
 <br>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=andreresende36&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=andreresende36&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=andreresende36&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-<br>
-<br>
-
-### E lembre-se... 😂
-<img src="https://i.imgur.com/6ycOfiY.jpg" style="width: 300px"/>
 <br>
 <br>
 
