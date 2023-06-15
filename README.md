@@ -6,7 +6,7 @@ No frontend, domino HTML, CSS, JavaScript, TypeScript, React, Redux e Bootstrap.
 Já no backend, utilizo Node.js, Express, JWT e TypeScript para a construção de APIs robustas e seguras. Para criação e utilização do banco de dados eu utilizo MySQL, Docker e o ORM Sequelize.
 
 Venho desenvolvendo projetos e compartilhando-os aqui no GitHub para colocar em prática todas as stacks que mencionei acima.
-Me segue aí! Quem sabe podemos trabalhar juntos num projeto 📋
+Me segue aí! Quem sabe podemos trabalhar juntos num projeto 😉
 <br>
 <br>
 
