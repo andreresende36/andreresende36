@@ -12,7 +12,7 @@ Me segue aí! Quem sabe podemos trabalhar juntos num projeto 😉
 <br>
 <br>
 
-## 🌐 Você também pode me encontrar nas redes abaixo:
+## 🌐 Você também pode me encontrar nas redes abaixo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/andrediasresende) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/andrediasresende)
 [![andreresende36@gmail.com](https://img.shields.io/badge/andreresende%40gmail.com-yellow?style=flat&logo=gmail)](mailto:andreresende36@gmail.com)
