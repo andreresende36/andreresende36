@@ -1,11 +1,9 @@
-# André Resende aqui 👋
-Sou um apaixonado por tecnologia, empreendedorismo e música. Minha trajetória profissional passa por diferentes áreas, incluindo o setor bancário, marketing digital e atualmente atuo como Desenvolvedor Web. Essa escolha trouxe propósito à minha vida e me permite oferecer meu melhor às pessoas. Sempre fui curioso e engajado em aprender sobre diversos temas, e vejo isso como algo essencial para um programador.
+Olá! Sou André Resende, desenvolvedor apaixonado por tecnologia com formação em Engenharia de Computação. Minha jornada começou com uma curiosidade inata e um desejo de entender como as coisas funcionam, o que me levou ao mundo da tecnologia e ao desenvolvimento de software.
 
-Desenvolvi habilidades para atuar tanto no frontend quanto no backend, assim posso programar e entender o processo por completo, de ponta a ponta.
-No frontend, domino HTML, CSS, JavaScript, TypeScript, React, Redux e Bootstrap. Tenho uma preferência pelo frontend, pois gosto de criar interfaces intuitivas e agradáveis para os usuários. 
-Já no backend, utilizo Node.js, Express, JWT e TypeScript para a construção de APIs robustas e seguras. Para criação e utilização do banco de dados eu utilizo MySQL, Docker e o ORM Sequelize.
+Atualmente, trabalho como Desenvolvedor Backend. Nesta posição, tenho realizado a criação e integração de APIs REST, utilizando ferramentas como JavaScript, Typescript, Fastify, NodeJS, MySQL, PostgreSQL e Docker.
 
-Venho desenvolvendo projetos e compartilhando-os aqui no GitHub para colocar em prática todas as stacks que mencionei acima.
+Minha experiência prévia no setor financeiro como bancário e planejador financeiro aprimorou minhas habilidades de comunicação e resolução de problemas, essenciais para entender e traduzir requisitos de negócios em soluções técnicas. Além disso, minha formação na Trybe, com um enfoque prático em tecnologias como HTML, CSS, JavaScript, NodeJS e Python, reforçou minha capacidade de aplicar meu conhecimento e colaborar efetivamente com equipes.
+
 <br>
 <br>
 Me segue aí! Quem sabe podemos trabalhar juntos num projeto 😉
