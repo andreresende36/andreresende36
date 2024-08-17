@@ -1,14 +1,11 @@
-Olá! Sou André Resende, desenvolvedor apaixonado por tecnologia com formação em Engenharia de Computação. Minha jornada começou com uma curiosidade inata e um desejo de entender como as coisas funcionam, o que me levou ao mundo da tecnologia e ao desenvolvimento de software.
+## ✌️ Olá, meu nome é André Resende
+Sou um desenvolvedor apaixonado por tecnologia com formação em Engenharia de Computação. Minha jornada começou com uma curiosidade inata e um desejo de entender como as coisas funcionam, o que me levou ao mundo da tecnologia e ao desenvolvimento de software.
 
 Atualmente, trabalho como Desenvolvedor Backend. Nesta posição, tenho realizado a criação e integração de APIs REST, utilizando ferramentas como JavaScript, Typescript, Fastify, NodeJS, MySQL, PostgreSQL e Docker.
 
 Minha experiência prévia no setor financeiro como bancário e planejador financeiro aprimorou minhas habilidades de comunicação e resolução de problemas, essenciais para entender e traduzir requisitos de negócios em soluções técnicas. Além disso, minha formação na Trybe, com um enfoque prático em tecnologias como HTML, CSS, JavaScript, NodeJS e Python, reforçou minha capacidade de aplicar meu conhecimento e colaborar efetivamente com equipes.
 
-<br>
-<br>
 Me segue aí! Quem sabe podemos trabalhar juntos num projeto 😉
-<br>
-<br>
 
 ## 🌐 Você também pode me encontrar nas redes abaixo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/andrediasresende) 
